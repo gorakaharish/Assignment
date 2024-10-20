@@ -1,0 +1,69 @@
+.Slder-heading{
+    font-size: 1.3rem;
+    color: #000000;
+    font-weight: 700;
+}
+.item-para{
+    color: #838383;
+    font-size: 1rem;
+}
+
+@media  (max-width: 768px) {
+    .Slder-heading{
+        font-size: 1.2rem;
+        color: #000000;
+        font-weight: 700;
+    }
+    .item-para{
+        color: #838383;
+        font-size: 1rem;
+    }
+}
+
+@media  (max-width: 425px) {
+    .Slder-heading{
+        font-size: 1.1rem;
+        color: #000000;
+        font-weight: 700;
+    }
+    .item-para{
+        color: #838383;
+        font-size: 0.9rem;
+    }
+}
+
+@media  (max-width: 375px) {
+    .Slder-heading{
+        font-size: 1rem;
+        color: #000000;
+        font-weight: 700;
+    }
+    .item-para{
+        color: #838383;
+        font-size: 0.8rem;
+    }
+}
+
+@media  (max-width: 325px) {
+    .Slder-heading{
+        font-size: 0.9rem;
+        color: #000000;
+        font-weight: 700;
+    }
+    .item-para{
+        color: #838383;
+        font-size: 0.8rem;
+    }
+}
+
+@media  (max-width: 320px) {
+    .Slder-heading{
+        font-size: 0.8rem;
+        color: #000000;
+        font-weight: 700;
+    }
+    .item-para{
+        color: #838383;
+        font-size: 0.7rem;
+    }
+}
