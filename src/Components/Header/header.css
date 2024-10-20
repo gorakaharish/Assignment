@@ -774,7 +774,7 @@ h5.offcanvas-title {
     }
     
     .form_nav{
-        width: 300px;
+        width: auto;
         height: 35px;
         border-bottom: 1px solid #000;
     }
